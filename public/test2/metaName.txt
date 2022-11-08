@@ -1,0 +1,13 @@
+Start
+ins Haus
+reachts am Haus vorbei
+die Treppe hoch
+ins Wohnzimmer
+Runter
+In den Wald
+nach Rechts
+nach Links
+Mann ansprechen
+weiter Schleichen
+Auto anhalten
+weiter durch den Wald
