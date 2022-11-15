@@ -184,11 +184,13 @@ function delay(n){
   return (
     <div>
       <div class="navbar">
-      <h1>Interaktives Hörspiel</h1>
-      <h3>1000 Gefahren auf der Suche nach atlantis</h3>
+        <h1 class="nat">Interaktives Hörspiel</h1>
+      </div>
+      <div class="Tirteltext">
+      <h3 class="nat">1000 Gefahren auf der Suche nach atlantis</h3>
       </div>
       
-      <div>
+      <div class="dcover">
         <img className="cover" src = {window.location.href+"/test/titelbild.jpg"}/>
       </div>
       
